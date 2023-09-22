@@ -1,0 +1,9 @@
+tr {
+    margin-top: 15px;
+    background-color: #CEDEBD;
+}
+
+
+tr td, tr th {
+    padding: 10px;
+}

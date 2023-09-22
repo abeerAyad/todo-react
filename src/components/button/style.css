@@ -1,0 +1,14 @@
+.btn {
+    padding: 10px 50px;
+    width: fit-content;
+    background-color:#435334;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add {
+    background-color: #9EB384;;
+}

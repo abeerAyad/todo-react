@@ -1,0 +1,9 @@
+thead tr  {
+    background-color:#435334;
+    color: #9EB384;
+}
+
+tr td {
+   text-align: center;
+   border-bottom: 1px solid  #9EB384;
+}

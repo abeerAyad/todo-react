@@ -1,0 +1,19 @@
+.table-card {
+    box-shadow: 0 0  2px  #9EB384;
+    border-radius: 5px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    width: 60%;
+    color: #435334;
+
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+    padding: 20px 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+

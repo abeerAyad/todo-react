@@ -1,0 +1,26 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 2px #9EB384;
+    border-radius: 5px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px ;
+    background-color: #CEDEBD;
+}
+
+.input {
+    border: none;
+    border-bottom: 1px solid #9EB384;
+    width: 80%;
+    margin-bottom: 20px;
+    background-color: transparent;
+    outline: none;
+    padding: 5px;
+}
+
+.input::placeholder {
+    color: #9EB384;
+}
